@@ -1,0 +1,24 @@
+> Business Requirements
+A) what user wants to do?
+ - allow people to mark their attendance by entering their ID date wise.
+ - checking for authentic users.
+ - 
+
+B) admin
+ - admin able to add/edit/delete the user details including password reset.[should be more secure]
+ - admin able to log in
+ - admin able to get report and print report of who absent on a particular day.
+ - able to set time for autosms.
+ - Choose how many days history to keep.
+ - Choose days for which attendance to be taken.
+ 
+> Functional requirements
+ - Display error message for invalid login
+ - 
+
+
+
+
+Database Components 
+ table 
+sno sid name pass contact admin today today+1 today +2
